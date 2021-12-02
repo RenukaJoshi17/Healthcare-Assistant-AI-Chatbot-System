@@ -1,0 +1,2 @@
+# Healthcare-Assistant-AI-Chatbot-System
+I along with my team has developed a healthcare assistant artificial intelligence chatbot system which shows patients the symptoms regarding a particular disease. The user interface is designed using Tkinter, data storing is done with pandas, and calculations using Python's numpy library. For storing the disease information in csv file, we have used the scikit learn library.
